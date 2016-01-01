@@ -8,5 +8,15 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack-livereload-plugin": "^0.4.0"
+  },
+  "dependencies": {
+    "babel-preset-react": "^6.3.13",
+    "babelify": "^7.2.0",
+    "jsx-loader": "^0.13.2",
+    "react": "^0.14.5",
+    "react-dom": "^0.14.5"
+  }
 }
